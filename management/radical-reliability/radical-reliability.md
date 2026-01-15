@@ -18,7 +18,7 @@ It grew out of repeated, ordinary decisions:
 - how to distribute judgment instead of hoarding it,
 - and how to model the kind of work you want others to feel safe doing.
 
-**Much of this approach comes from systems thinking - not applied to software, but to people.**
+**Much of this approach comes from systems thinking — not applied to software, but to people.**
 
 In reliable systems, we don't assume components are perfect. We assume they will fail, and we design for detection, repair, and resilience. Radical Reliability applies the same logic to human systems: failure is expected, repair is visible, and responsibility lives as close to the work as possible.
 
@@ -26,20 +26,20 @@ In reliable systems, we don't assume components are perfect. We assume they will
 
 ### The problem
 
-During periods of uncertainty - reorganizations, strategy shifts, cost pressure - managers are often encouraged to project stability even when none exists.
+During periods of uncertainty — reorganizations, strategy shifts, cost pressure — managers are often encouraged to project stability even when none exists.
 
 The intent is usually kind: protect morale, keep people focused, prevent panic.
 
 The effect is often the opposite.
 
-When people sense risk but are told not to worry, they stop trusting both leadership _and their own perception._ The gap between lived experience and official messaging creates unpredictable uncertainty - the most exhausting and corrosive kind.
+When people sense risk but are told not to worry, they stop trusting both leadership _and their own perception._ The gap between lived experience and official messaging creates unpredictable uncertainty — the most exhausting and corrosive kind.
 
 ### How I approach it
 
 When I can see risk, I name it.
 When the future is unclear, I say so plainly.
 
-I don't promise outcomes I can't control, and I don't relay optimistic narratives without also explaining constraints. I'm careful not to dramatize or speculate - but I refuse to anesthetize reality.
+I don't promise outcomes I can't control, and I don't relay optimistic narratives without also explaining constraints. I'm careful not to dramatize or speculate — but I refuse to anesthetize reality.
 
 Truth-telling isn't a one-time disclosure. I stay present with the consequences: answering questions, sitting with discomfort, and accepting that clarity sometimes makes people uneasy.
 
@@ -49,7 +49,7 @@ What I refuse to do is trade long-term trust for short-term comfort.
 
 Over time, this shifts how people orient themselves toward uncertainty:
 
-When people see uncomfortable truths named early - not punished, delayed, or euphemized - they learn that honesty is survivable.
+When people see uncomfortable truths named early — not punished, delayed, or euphemized — they learn that honesty is survivable.
 
 They stop spending energy decoding subtext and start spending it on planning, learning, and problem-solving.*
 
@@ -78,7 +78,11 @@ Many leaders try to build trust by appearing consistently confident and composed
 
 They avoid showing mistakes, uncertainty, or unfinished thinking, believing that calm authority makes people feel safe.
 
-What this often creates instead is opacity. Leaders who look perfect are unknowable under stress. When something finally breaks - and it always does - people don't know what will happen next.
+What this often creates instead is opacity. Leaders who look perfect are unknowable under stress. When something finally breaks — and it always does — people don't know what will happen next.
+
+At that point, people stop paying attention to what went wrong and start paying attention to how leaders respond.
+
+This is when where repair begins. Here, “repair” includes fixing what broke, and goes on to restore trust, clarity, and capacity after harm, so people don’t have to harden themselves just to keep working.
 
 ### How I approach it
 
@@ -100,7 +104,7 @@ When people see a manager share unfinished work, admit mistakes, and repair with
 
 That lesson changes behavior. People stop waiting for perfection before sharing their own work. Iteration speeds up. Problems surface earlier.
 
-People fail faster - and more safely - because they've seen that failure followed by repair is the norm.
+People fail faster — and more safely — because they've seen that failure followed by repair is the norm.
 
 ### What I'm aiming for
 
@@ -119,9 +123,9 @@ It's built by the **predictability of repair.**_
 
 Engineers are often expected to absorb urgency and responsibility without being trusted with real judgment.
 
-On-call work, incident response, operational cleanup demand heroics - but deny people the authority to decide when effort is no longer worth the cost.
+On-call work, incident response, operational cleanup demand heroics — but deny people the authority to decide when effort is no longer worth the cost.
 
-Pivots in planning - when a project that was once urgent suddenly isn't - erode trust if the reasoning behind that change isn't communicated. What feels like arbitrariness becomes a demand for blind acceptance.
+Pivots in planning — when a project that was once urgent suddenly isn't — erode trust if the reasoning behind that change isn't communicated. What feels like arbitrariness becomes a demand for blind acceptance.
 
 These mismatches breed burnout and quiet resentment.
 
@@ -131,7 +135,7 @@ I explicitly teach engineers to reason about tradeoffs.
 
 When on call, that often means a simple calculation: _the financial impact of a problem versus the cost of the human time required to fix it._
 
-I make it clear that it is sometimes correct to let the company lose money - especially when the alternative is burning hours of human energy or eroding customer trust.
+I make it clear that it is sometimes correct to let the company lose money — especially when the alternative is burning hours of human energy or eroding customer trust.
 
 I encourage quick, customer-first repairs even when they cost the business something.
 
@@ -158,7 +162,7 @@ Cooperation becomes the lowest-friction path, not the riskiest one.
 
 ### What I'm aiming for
 
-I want engineers to feel ownership not just of systems, but of judgment - including judgment about when not to fix something.
+I want engineers to feel ownership not just of systems, but of judgment — including judgment about when not to fix something.
 
 ### The takeaway
 
@@ -176,7 +180,7 @@ Under stress, people default to incentives, not slogans.
 
 ### How I approach it
 
-Instead of emphasizing abstract values, I teach and repeat simple heuristics - questions people can use when I'm not around:
+Instead of emphasizing abstract values, I teach and repeat simple heuristics — questions people can use when I'm not around:
 - Is this problem worth your time?
 - Can we see the messy version now instead of the perfect version later?
 - Who benefits from this repair?
@@ -203,7 +207,7 @@ These heuristics bias people toward prosocial decisions without requiring coordi
 ## Misuse and Failure Modes
 
 _Radical Reliability is intentionally anti-heroic._
-It assumes that if a system requires constant sacrifice to function, the system - not the people - is at fault.
+It assumes that if a system requires constant sacrifice to function, the system — not the people — is at fault.
 
 That being said, Radical Reliability can fail if applied carelessly:
 * Honesty without responsibility becomes cruelty.
@@ -214,7 +218,7 @@ That being said, Radical Reliability can fail if applied carelessly:
 
 Overuse without boundaries will burn managers out.
 
-Reliability includes knowing when to rest, when to delegate, and when to stop carrying more than is sustainable — and making those boundaries explicit rather than silently dropping work.
+Reliability includes knowing when to rest, when to delegate, and when to stop carrying more than is sustainable, and making those boundaries explicit rather than silently dropping work.
 
 ## Moral Influence: Responsibility Without Reward
 
@@ -240,7 +244,7 @@ His orders matter only insofar as they serve the people who live there. That's w
 Obedience is not the goal.
 Alignment is.
 
-What makes this work isn't authority. It's predictability of intent. The Watch trusts that Vimes' orders will be in the best interests of the city as it actually is - not the city as powerful people wish it were.
+What makes this work isn't authority. It's predictability of intent. The Watch trusts that Vimes' orders will be in the best interests of the city as it actually is — not the city as powerful people wish it were.
 
 That trust isn't blind. It's earned through correction and repair.
 
@@ -248,7 +252,7 @@ That trust isn't blind. It's earned through correction and repair.
 
 Tiffany Aching is a young witch from a long line of hard-working shepherds on the Chalk, a place with a long history of burning witches. She operates from an even starker premise than Sam.
 
-She doesn't believe the world will become fair if everyone follows the rules. For her, resonsibility has nowhere else to land - it arises from proximity, not blame.
+She doesn't believe the world will become fair if everyone follows the rules. For her, responsibility has nowhere else to land — it arises from proximity, not blame.
 
 In _A Hat Full of Sky,_ one of the characters puts it this way:
 
@@ -264,14 +268,14 @@ Responsibility isn't about fault.
 
 These worldviews map directly onto how I manage.
 
-I don't treat engineers as people who need incentives to behave responsibly. I treat them as people who already want to act responsibly - provided they are trusted, informed, and expected to do so.
+I don't treat engineers as people who need incentives to behave responsibly. I treat them as people who already want to act responsibly — provided they are trusted, informed, and expected to do so.
 
 Responsibility isn't something I grant as a reward.
 It's something I assume.
 And then support.
 
 Authority, in this model, is not control.
-It's alignment, combined with the expectation that you can - _and should_ - be challenged when you drift.
+It's alignment, combined with the expectation that you can — _and should_ — be challenged when you drift.
 
 That belief is the moral backbone of Radical Reliability.
 
@@ -281,6 +285,6 @@ Radical Reliability isn't about fixing broken systems.
 
 It's about refusing to let those systems decide who you are while you work inside them.
 
-It's a commitment to legibility, repair, dignity, and shared responsibility - not because they are fashionable, but because they reliably reduce harm and help people do good work together.
+It's a commitment to legibility, repair, dignity, and shared responsibility — not because they are fashionable, but because they reliably reduce harm and help people do good work together.
 
 It's a way of standing upright in a messy system and being someone others can rely on when things inevitably go wrong.
