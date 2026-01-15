@@ -1,4 +1,4 @@
-# How to Try Radical Reliability Without Getting Fired
+# How to Try Radical Reliability (Without Getting Fired)
 
 > **Preface**
 >
