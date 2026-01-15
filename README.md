@@ -1,7 +1,7 @@
 # Professional Writing
 
 ## Overview
-This repository contains working drafts of and completed professional writing. 
+This repository contains working drafts and completed versions of professional writing. 
 
 The goal of hosting this work on GitHub is to maintain version control, and share progress (and in some cases completed work) with the community.
 
