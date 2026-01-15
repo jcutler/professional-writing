@@ -39,13 +39,13 @@ Good starting points:
 
 Radical Reliability spreads through **precedent**, not proclamation.
 
-A lot of leadership advice implicitly asks people to be brave: speak up, tell the truth, do the hard thing.
+A lot of leadership advice asks people to be brave: speak up, tell the truth, do the hard thing.
 
 Radical Reliability takes a different approach. It asks how to design systems and behaviors _around you_ so people don’t have to rely on bravery just to act responsibly.
 
 ### Small, Low-Risk Moves You Can Try
 
-If you're early in your management career, Radical Reliability can sound abstract or risky. The goal isn't to overhaul your organization — it's to change the local cost of honesty, repair, and responsibility.
+If you're early in your management career, Radical Reliability can sound abstract or risky. However, the goal isn't to overhaul your organization — it's to change the local cost of honesty, repair, and responsibility.
 
 Some low-risk starting points:
 
@@ -82,7 +82,7 @@ Before you encourage others to:
 - share messy drafts,
 - or make judgment calls,
 
-you need to:
+_you_ need to:
 - admit your own mistakes,
 - repair them publicly,
 - and demonstrate that nothing terrible happens afterward.
@@ -141,9 +141,9 @@ And never ask others to take a risk you haven't already taken yourself.
 
 The difference between modeling trust and abusing it is simple: **who pays the cost**.
 
-## Be Careful With Truth-Telling Up the Chain
+## Truth-Telling Carries Responsibility
 
-Truth-telling up the chain requires discipline. The goal is not to eliminate uncertainty, but to make risk and reasoning visible without outsourcing responsibility or inflaming fear.
+Truth-telling with the people you manage requires discipline. The goal is not to eliminate uncertainty, but to make risk and reasoning visible without outsourcing responsibility or inflaming fear.
 
 Truth-telling is safest when it is:
 - bounded,
