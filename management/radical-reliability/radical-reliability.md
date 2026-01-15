@@ -68,6 +68,8 @@ Known risk is something adults can reason about together. It allows people to de
 People don't need managers to make the world safer than it is.
 They need managers who won't distort reality to manage feelings.
 
+Truth-telling is necessary, but it is not sufficient. When the truth doesn’t fix the problem, responsibility doesn’t end — it deepens.
+
 ## B. Predictability Over Reassurance
 
 ### The problem
@@ -137,7 +139,7 @@ And crucially: I back people when they make those calls.
 
 ### How this changes behavior
 
-When people are trusted to make economic and ethical decisions, they stop acting like resources and start behaving like individual **Stewards of Resources.**
+When people are trusted to make economic and ethical decisions, they stop acting like resources and start behaving like individual **stewards of resources.**
 
 They conserve energy. They focus on what matters. They think in terms of long-term impact rather than short-term appeasement.
 
@@ -246,9 +248,9 @@ That trust isn't blind. It's earned through correction and repair.
 
 Tiffany Aching is a young witch from a long line of hard-working shepherds on the Chalk, a place with a long history of burning witches. She operates from an even starker premise than Sam.
 
-She doesn't believe the world will become fair if everyone follows the rules. She believes responsibility arises from proximity, not blame.
+She doesn't believe the world will become fair if everyone follows the rules. For her, resonsibility has nowhere else to land - it arises from proximity, not blame.
 
-In _A Hat Full of Sky,_ Pratchett writes:
+In _A Hat Full of Sky,_ one of the characters puts it this way:
 
 > "There isn't a way things should be.
 > There's just what happens, and what we do."
@@ -265,26 +267,15 @@ These worldviews map directly onto how I manage.
 I don't treat engineers as people who need incentives to behave responsibly. I treat them as people who already want to act responsibly - provided they are trusted, informed, and expected to do so.
 
 Responsibility isn't something I grant as a reward.
-It's something I assume... and then support.
+It's something I assume.
+And then support.
 
 Authority, in this model, is not control.
 It's alignment, combined with the expectation that you can - _and should_ - be challenged when you drift.
 
 That belief is the moral backbone of Radical Reliability.
 
-## Radical Reliability in Context
-
-_Radical Reliability_ is influenced by both _Radical Candor_ and _Radical Transparency,_ but it operates at a different layer.
-
-Radical Candor focuses on _how we speak to individuals:_ caring personally while challenging directly. Radical Transparency focuses on _how information flows:__ shared data, fewer hidden conversations.
-
-_Radical Reliability_ asks a different question:
-
-What happens after the truth is spoken - especially when the system still produces harm and the truth doesn't fix the problem?
-
-It's less about communication style or information access and more about behavior over time. It's the promise that honesty and openness won't disappear when they become inconvenient.
-
-## Closing
+## Final Thought
 
 Radical Reliability isn't about fixing broken systems.
 
@@ -293,5 +284,3 @@ It's about refusing to let those systems decide who you are while you work insid
 It's a commitment to legibility, repair, dignity, and shared responsibility - not because they are fashionable, but because they reliably reduce harm and help people do good work together.
 
 It's a way of standing upright in a messy system and being someone others can rely on when things inevitably go wrong.
-
-[^1] In sociology, prosocial behavior refers to actions intended to benefit others without direct personal gain.
