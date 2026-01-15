@@ -39,6 +39,10 @@ Good starting points:
 
 Radical Reliability spreads through **precedent**, not proclamation.
 
+A lot of leadership advice implicitly asks people to be brave: speak up, tell the truth, do the hard thing.
+
+Radical Reliability takes a different approach. It asks how to design systems and behaviors _around you_ so people don’t have to rely on bravery just to act responsibly.
+
 ### Small, Low-Risk Moves You Can Try
 
 If you're early in your management career, Radical Reliability can sound abstract or risky. The goal isn't to overhaul your organization — it's to change the local cost of honesty, repair, and responsibility.
