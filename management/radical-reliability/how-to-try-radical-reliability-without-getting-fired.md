@@ -6,8 +6,8 @@
 >
 > The main essay describes a stance — how to behave reliably inside messy systems. This document focuses on practice: how to try out that stance in real organizations, with real constraints, without confusing integrity with recklessness.
 >
-> It is grounded primarily in software and engineering organizations, where risk, failure, and uncertainty are frequent and visible. It is intentionally cautious. It assumes limited authority, uneven incentives, and the presence of fear - especially around failure, transparency, and AI.
-
+> It is grounded primarily in software and engineering organizations, where risk, failure, and uncertainty are frequent and visible. It is intentionally cautious. It assumes limited authority, uneven incentives, and the presence of fear — especially around failure, transparency, and AI.
+> 
 ---
 
 Radical Reliability is not a neutral stance.
@@ -41,7 +41,7 @@ Radical Reliability spreads through **precedent**, not proclamation.
 
 A lot of leadership advice asks people to be brave: speak up, tell the truth, do the hard thing.
 
-Radical Reliability takes a different approach. It asks how to design systems and behaviors _around you_ so people don’t have to rely on bravery just to act responsibly.
+Radical Reliability takes a different approach. It asks how to design systems and behaviors _around you_ so people don't have to rely on bravery just to act responsibly.
 
 ### Small, Low-Risk Moves You Can Try
 
@@ -50,10 +50,10 @@ If you're early in your management career, Radical Reliability can sound abstrac
 Low-risk moves to start with:
 
 - In a 1:1, explicitly say: "If something feels risky or unclear, I'd rather hear it early than polished."
-- When someone brings up a problem, respond first with “thank you for surfacing this early — it gives us more options,” before problem-solving.
+- When someone brings up a problem, respond first with "thank you for surfacing this early — it gives us more options," before problem-solving.
 - In a retro, name one thing you personally got wrong and how you'd repair it.
 - When priorities change, explain *why*, even if the reason is uncomfortable or incomplete.
-- When using AI, ask “can someone else explain this output?” before shipping it.
+- When using AI, ask "can someone else explain this output?" before shipping it.
 - Use timelines to surface risk early, not to promise certainty to your downstream dependencies. It's better to be two weeks late with a month of warning than one week late with none.
 
 These moves don't require permission.
@@ -62,7 +62,7 @@ They slowly change what feels safe to say and do.
 
 ### What This Looks Like in Practice
 
-If you’re wondering whether you’re “doing this right,” look for these signals:
+If you're wondering whether you're "doing this right," look for these signals:
 
 - People bring you half-formed concerns instead of fully-defended positions.
 - Problems surface earlier, even when the news is uncomfortable.
@@ -70,7 +70,7 @@ If you’re wondering whether you’re “doing this right,” look for these si
 - People ask for clarification more often than permission.
 - Mistakes are discussed in terms of repair, not blame, and lead to changes that make the mistake harder to repeat and the right action easier to take.
 
-If you’re not seeing these yet, that’s normal.
+If you're not seeing these yet, that's normal.
 They emerge gradually, as people test whether your responses are predictable.
 
 ## Make Repair Visible Before You Ask for Risk
@@ -98,9 +98,9 @@ Not in high-stakes ways where harm was irreversible — but sometimes in situati
 Not in ways that put customers, peers, or the business at risk.
 And never in ways that offload consequences onto someone else.
 
-I've done this most often when onboarding people from low-trust environments — places where failure was discouraged, mistakes were remembered, and “psychological safety” existed mostly in slide decks.
+I've done this most often when onboarding people from low-trust environments — places where failure was discouraged, mistakes were remembered, and "psychological safety" existed mostly in slide decks.
 
-In those environments, saying *“it's safe to fail here”* doesn't work. They've heard that before.
+In those environments, saying *"it's safe to fail here"* doesn't work. They've heard that before.
 
 What does work is seeing the full loop:
 
@@ -154,12 +154,12 @@ Truth-telling is safest when it is:
 Avoid:
 - unbounded speculation,
 - moral framing,
-- or abstract critiques of “the system.”
+- or abstract critiques of "the system."
 
 Prefer:
-- “Here's what we're seeing.”
-- “Here's the tradeoff we're making.”
-- “Here's what we're optimizing for.”
+- "Here's what we're seeing."
+- "Here's the tradeoff we're making."
+- "Here's what we're optimizing for."
 
 ## Watch for Warning Signs
 
@@ -167,7 +167,7 @@ Slow down or narrow scope if you see:
 - honesty being punished,
 - repair quietly discouraged,
 - leaders equating realism with negativity,
-- requests to “keep things light” during real uncertainty.
+- requests to "keep things light" during real uncertainty.
 
 These don't always mean stop.
 But they do mean **contain**.
@@ -180,13 +180,15 @@ Radical Reliability will fail in organizations where:
 - dissent is equated with disloyalty,
 - failure is remembered but repair is treated as waste rather than value.
 
-In those environments, adaptation may not be the right move. Exiting is not cynicism.
-
-Even when the basics are in place, some pressures will still expose the limits of this approach.
+In those environments, adaptation may not be the right move.
+When the same constraints remain unchanged, they may be telling you something about the system itself.
+Recognizing that is sometimes what makes leaving the rational choice.
+Exiting is not cynicism.
 
 ## AI as a Stress Test for Radical Reliability
 
-AI didn't introduce new problems so much as **amplify existing ones**.
+Even when the basics are in place, some pressures will still expose the limits of this approach.
+AI is one such pressure — not because it creates new problems, but because it **amplifies existing ones**.
 
 It accelerates decision-making, lowers the cost of producing output, and increases uncertainty about value, ownership, and replacement. That makes Radical Reliability harder — and more necessary.
 
@@ -233,7 +235,7 @@ It makes systems harder to understand, harder to maintain, and harder to safely 
 
 ### Tools Don't Hold Responsibility — People Do
 
-“The model suggested it” is not an acceptable end to a decision.
+"The model suggested it" is not an acceptable end to a decision.
 
 AI can assist judgment.
 It cannot absorb accountability.
@@ -263,7 +265,7 @@ AI should shorten feedback loops — not erase them.
 
 If you want to practice Radical Reliability safely:
 
-**Never ask others to take a risk you wouldn't take yourself —  and never ask them to carry a consequence you won't absorb.**
+**Never ask others to take a risk you wouldn't take yourself — and never ask them to carry a consequence you won't absorb.**
 
 That rule will keep you out of most trouble.
 
