@@ -47,7 +47,7 @@ What I refuse to do is trade long-term trust for short-term comfort.
 
 ### How this changes behavior
 
-Over time, this shifts how people orient themselves toward uncertainty:
+As this pattern repeats, people begin to orient themselves differently toward uncertainty:
 
 When people see uncomfortable truths named early — not punished, delayed, or euphemized — they learn that honesty is survivable.
 
@@ -143,7 +143,7 @@ And crucially: I back people when they make those calls.
 
 ### How this changes behavior
 
-When people are trusted to make economic and ethical decisions, they stop acting like resources and start behaving like individual **stewards of resources.**
+When people are trusted to make economic and ethical decisions, they stop acting primarily as headcount and start behaving like individual **stewards of resources.**
 
 They conserve energy. They focus on what matters. They think in terms of long-term impact rather than short-term appeasement.
 
@@ -190,7 +190,7 @@ I make my own reasoning visible so people can copy the logic, not just the outco
 
 ### How this changes behavior
 
-Over time, people begin making these decisions without prompting.
+Before long, people begin making these decisions without prompting.
 
 They surface work earlier.
 They iterate more openly.
@@ -198,7 +198,7 @@ They correct faster.
 
 Culture becomes portable.
 
-These heuristics bias people toward prosocial decisions without requiring coordination. Over time, they reduce harm and improve collective outcomes — even when no rule applies and no one is watching.
+These heuristics bias people toward prosocial decisions without requiring coordination. At scale, they reduce harm and improve collective outcomes — even when no rule applies and no one is watching.
 
 ### The takeaway
 
@@ -234,7 +234,7 @@ _People act responsibly when they are given the right information, the right too
 
 ### Sam Vimes: responsibility to the world as it is
 
-Sam Vimes is the Commander of the City Watch of Ankh-Morpork, a notoriously rich and unmanageable city. His approach to leading officers of the Watch centered around being explicit about where responsibility flows.
+Sam Vimes is the Commander of the City Watch of Ankh-Morpork, a notoriously complex and unmanageable city. His approach to leading officers of the Watch centered around being explicit about where responsibility flows.
 
 Members of the Watch are not responsible to _him._
 They are responsible to the city.
@@ -250,7 +250,7 @@ That trust isn't blind. It's earned through correction and repair.
 
 ### Tiffany Aching: responsibility without fault
 
-Tiffany Aching is a young witch from a long line of hard-working shepherds on the Chalk, a place with a long history of burning witches. She operates from an even starker premise than Sam.
+Tiffany Aching is a young witch from the Chalk, a hard and stubborn place shaped by generations of shepherds — and by a long history of burning witches. She operates from an even starker premise than Sam.
 
 She doesn't believe the world will become fair if everyone follows the rules. For her, responsibility has nowhere else to land — it arises from proximity, not blame.
 
