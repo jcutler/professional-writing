@@ -47,7 +47,7 @@ Radical Reliability takes a different approach. It asks how to design systems an
 
 If you're early in your management career, Radical Reliability can sound abstract or risky. However, the goal isn't to overhaul your organization — it's to change the local cost of honesty, repair, and responsibility.
 
-Some low-risk starting points:
+Low-risk moves to start with:
 
 - In a 1:1, explicitly say: "If something feels risky or unclear, I'd rather hear it early than polished."
 - When someone brings up a problem, respond first with “thank you for surfacing this early — it gives us more options,” before problem-solving.
