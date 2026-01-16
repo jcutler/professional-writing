@@ -84,7 +84,7 @@ What this often creates instead is opacity. Leaders who look perfect are unknowa
 
 At that point, people stop paying attention to what went wrong and start paying attention to how leaders respond.
 
-This is when repair begins. Here, “repair” includes fixing what broke, and goes on to restore trust, clarity, and capacity after harm, so people don’t have to harden themselves just to keep working.
+This is when repair begins. Repair includes fixing what broke, and goes on to restore trust, clarity, and capacity after harm, so people don’t have to harden themselves just to keep working.
 
 ### How I approach it
 
