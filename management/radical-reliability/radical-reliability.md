@@ -119,13 +119,13 @@ When things go wrong, they shouldn't wonder whether I'll disappear, overreact, o
 _Trust isn't built by the absence of failure.
 It's built by the **predictability of repair.**_
 
-## C. Treating Engineers as Moral and Economic Agents _(or, the Decentralization of Dignity)_
+## Pattern: Treating Engineers as Moral and Economic Agents _(or, the Decentralization of Dignity)_
 
 ### The problem
 
 Engineers are often expected to absorb urgency and responsibility without being trusted with real judgment.
 
-On-call work, incident response, operational cleanup demand heroics — but deny people the authority to decide when effort is no longer worth the cost.
+On-call work, incident response, and operational cleanup are often structured to demand heroics — but deny people the authority to decide when effort is no longer worth the cost. The benefits of that extra effort accrue upward, while the costs are absorbed locally.
 
 Pivots in planning — when a project that was once urgent suddenly isn't — erode trust if the reasoning behind that change isn't communicated. What feels like arbitrariness becomes a demand for blind acceptance.
 
