@@ -51,7 +51,7 @@ Over time, this shifts how people orient themselves toward uncertainty:
 
 When people see uncomfortable truths named early — not punished, delayed, or euphemized — they learn that honesty is survivable.
 
-They stop spending energy decoding subtext and start spending it on planning, learning, and problem-solving.*
+_They stop spending energy decoding subtext and start spending it on planning, learning, and problem-solving._
 
 Just as importantly, they learn that they are allowed to surface issues before those issues are polished, defensible, or complete. The cost of speaking early drops.
 
