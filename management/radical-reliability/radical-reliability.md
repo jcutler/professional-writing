@@ -151,7 +151,7 @@ They conserve energy. They focus on what matters. They think in terms of long-te
 
 Escalation drops. Permission-seeking drops. Responsibility rises.
 
-**What emerges from this approach is something quietly prosocial[^1].**
+**What emerges from this approach is something quietly prosocial.**
 
 When people are given clear information, real authority, and visible repair, they begin to make decisions that reduce harm and improve outcomes for others without requiring coordination, enforcement, or reward.
 
