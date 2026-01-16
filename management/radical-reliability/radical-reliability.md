@@ -22,7 +22,9 @@ It grew out of repeated, ordinary decisions:
 
 In reliable systems, we don't assume components are perfect. We assume they will fail, and we design for detection, repair, and resilience. Radical Reliability applies the same logic to human systems: failure is expected, repair is visible, and responsibility lives as close to the work as possible.
 
-## A. Truth-Telling With Consequences, Not Comfort
+For this to work, patterns have to be created and reinforced deliberately.
+
+## Pattern: Truth-Telling With Consequences, Not Comfort
 
 ### The problem
 
@@ -70,7 +72,7 @@ They need managers who won't distort reality to manage feelings.
 
 Truth-telling is necessary, but it is not sufficient. When the truth doesn’t fix the problem, responsibility doesn’t end — it deepens.
 
-## B. Predictability Over Reassurance
+## Pattern: Predictability Over Reassurance
 
 ### The problem
 
@@ -170,7 +172,7 @@ I want engineers to feel ownership not just of systems, but of judgment — incl
 
 If you don't trust people with tradeoffs, you don't actually trust them.
 
-## D. Value Installation via Lived Heuristics, Not Principles
+## Pattern: Value Installation via Lived Heuristics, Not Principles
 
 ### The problem
 
