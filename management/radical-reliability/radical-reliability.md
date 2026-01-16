@@ -6,7 +6,7 @@ Most management writing assumes a reasonably functional system: aligned incentiv
 
 Many of us don't work in those systems.
 
-We work in organizations that are opaque and anxious, shaped by periodic layoffs, reorganizations, shifting priorities, and optimization pressures that quietly reward appearance over substance. In those environments, the question isn't how to be inspirational...
+We work in organizations that are opaque and anxious, shaped by periodic layoffs, reorganizations, shifting priorities, and optimization pressures that quietly reward appearance over substance. In those environments, the question isn't how to be inspirational.
 
 **It's how to be _reliable._**
 
@@ -222,7 +222,7 @@ Reliability includes knowing when to rest, when to delegate, and when to stop ca
 
 ## Moral Influence: Responsibility Without Reward
 
-This approach didn't come from management books. Honestly, it came from stories. Specifically from two of my favorite characters in Terry Pratchett's Discworld series: Sam Vimes and Tiffany Aching.
+This approach didn't come from management books. It came from stories. Specifically from two of my favorite characters in Terry Pratchett's Discworld series: Sam Vimes and Tiffany Aching.
 
 What always stood out to me about them wasn't that they were heroic or idealistic.
 
