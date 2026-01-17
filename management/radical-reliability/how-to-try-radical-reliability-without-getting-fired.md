@@ -31,7 +31,7 @@ Start where:
 - and you control the tone and follow-through.
 
 Good starting points:
-- 1:1s
+- one-on-ones with your team
 - team retrospectives
 - how you respond to mistakes
 - how you talk about unfinished work
