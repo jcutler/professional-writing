@@ -22,7 +22,7 @@ It grew out of repeated, ordinary decisions:
 
 In reliable systems, we don't assume components are perfect. We assume they will fail, and we design for detection, repair, and resilience. Radical Reliability applies the same logic to human systems: failure is expected, repair is visible, and responsibility lives as close to the work as possible.
 
-For this to work, patterns have to be created and reinforced deliberately.
+For this to succeed, patterns have to be created and reinforced deliberately.
 
 ## Pattern: Truth-Telling With Consequences, Not Comfort
 
