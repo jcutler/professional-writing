@@ -30,7 +30,7 @@ Start where:
 - you can absorb consequences,
 - and you control the tone and follow-through.
 
-Good starting points:
+Good starting points may be:
 - one-on-ones with your team
 - team retrospectives
 - how you respond to mistakes
@@ -49,12 +49,12 @@ If you're early in your management career, Radical Reliability can sound abstrac
 
 Low-risk moves to start with:
 
-- In a 1:1, explicitly say: "If something feels risky or unclear, I'd rather hear it early than polished."
-- When someone brings up a problem, respond first with "thank you for surfacing this early — it gives us more options," before problem-solving.
+- In a 1:1, explicitly say: _"If something feels risky or unclear, I'd rather hear it early than polished."_
+- When someone brings up a problem, respond first with _"thank you for surfacing this early — it gives us more options,"_ before problem-solving.
 - In a retro, name one thing you personally got wrong and how you'd repair it.
-- When priorities change, explain *why*, even if the reason is uncomfortable or incomplete.
-- When using AI, ask "can someone else explain this output?" before shipping it.
-- Use timelines to surface risk early, not to promise certainty to your downstream dependencies. It's better to be two weeks late with a month of warning than one week late with none.
+- When priorities change, explain _why_, even if the reason is uncomfortable or incomplete.
+- When using AI, ask _"can someone else explain this output?"_ before shipping it.
+- Use timelines to surface risk early, not to promise certainty to your downstream dependencies. **It's better to be two weeks late with a month of warning than one week late with none.**
 
 These moves don't require permission.
 They don't challenge leadership directly.
@@ -113,7 +113,7 @@ Sometimes the fastest way to establish that loop is to model it yourself.
 
 That might look like:
 - sharing work earlier than you normally would,
-- making a decision you expect to revise, or deliberately leaving space for someone else to challenge or improve it,
+- making a decision you expect to revise and deliberately leaving space for someone else to challenge or improve it,
 - or taking responsibility for something messy instead of waiting for clarity.
 
 The point isn't the failure.
@@ -194,7 +194,7 @@ It accelerates decision-making, lowers the cost of producing output, and increas
 
 ### Fear Changes Behavior Before Outcomes Change
 
-You don't need to believe AI will replace jobs to see its effects.
+You don't need to believe AI will replace jobs to see the effect of that fear.
 
 People already act as if it might.
 
@@ -215,8 +215,6 @@ Ignoring it just drives it underground.
 ### AI Makes Slop Cheap and Legibility Expensive
 
 AI dramatically lowers the cost of producing work that *looks* finished.
-
-That's not neutral.
 
 Code that can't be explained.
 Decisions that can't be traced.
