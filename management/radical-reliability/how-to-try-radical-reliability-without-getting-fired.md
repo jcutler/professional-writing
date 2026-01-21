@@ -2,7 +2,7 @@
 
 > **Preface**
 >
-> This piece is a companion to [*Practicing Radical Reliability as a Leader*](management/radical-reliability/radical-reliability.md)
+> This piece is a companion to [*Practicing Radical Reliability as a Leader*](/management/radical-reliability/radical-reliability.md)
 >
 > The main essay describes a stance — how to behave reliably inside messy systems. This document focuses on practice: how to try out that stance in real organizations, with real constraints, without confusing integrity and recklessness.
 >
