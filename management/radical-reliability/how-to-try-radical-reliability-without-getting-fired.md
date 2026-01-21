@@ -49,7 +49,7 @@ If you're early in your management career, Radical Reliability can sound abstrac
 
 Low-risk moves to start with:
 
-- In a 1:1, explicitly say: _"If something feels risky or unclear, I'd rather hear it early than polished."_
+- In a one-on-one, explicitly say: _"If something feels risky or unclear, I'd rather hear it early than polished."_
 - When someone brings up a problem, respond first with _"thank you for surfacing this early — it gives us more options,"_ before problem-solving.
 - In a retro, name one thing you personally got wrong and how you'd repair it.
 - When priorities change, explain _why_, even if the reason is uncomfortable or incomplete.
