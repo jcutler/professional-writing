@@ -2,11 +2,11 @@
 
 > **Preface**
 >
-> This piece is a companion to *Practicing Radical Reliability as a Leader*.
+> This piece is a companion to [*Practicing Radical Reliability as a Leader*](management/radical-reliability/radical-reliability.md)
 >
 > The main essay describes a stance — how to behave reliably inside messy systems. This document focuses on practice: how to try out that stance in real organizations, with real constraints, without confusing integrity and recklessness.
 >
-> It is grounded primarily in software and engineering organizations, where risk, failure, and uncertainty are frequent and visible. It is intentionally cautious. It assumes limited authority, uneven incentives, and the presence of fear — especially around failure, transparency, and AI.
+> It is grounded primarily in software engineering organizations, where risk, failure, and uncertainty are frequent and visible. It is intentionally cautious. It assumes limited authority, uneven incentives, and the presence of fear — especially around failure, transparency, and AI.
 
 ---
 
