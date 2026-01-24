@@ -216,9 +216,9 @@ That being said, Radical Reliability can fail if applied carelessly:
 * Vulnerability without repair creates anxiety.
 * Decentralization without support feels like abandonment.
 
-“Just being realistic” can become an excuse for laziness or lack of care.
+"Just being realistic" can become an excuse for laziness or lack of care - naming constraints without owning any responsibility inside them.
 
-Overuse without boundaries will burn managers out.
+Overuse without boundaries will burn managers out — especially when they absorb costs that existing structures quietly rely on them to carry.
 
 Reliability includes knowing when to rest, when to delegate, and when to stop carrying more than is sustainable, and making those boundaries explicit rather than silently dropping work.
 
