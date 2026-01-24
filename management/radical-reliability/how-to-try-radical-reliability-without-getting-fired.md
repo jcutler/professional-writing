@@ -170,7 +170,8 @@ Slow down or narrow scope if you see:
 - requests to "keep things light" during real uncertainty.
 
 These don't always mean stop.
-But they do mean **contain**.
+But they do mean contain.
+Reduce scope, narrow exposure, and protect people from absorbing unacknowledged cost.
 
 ## Know When This Won't Work
 
