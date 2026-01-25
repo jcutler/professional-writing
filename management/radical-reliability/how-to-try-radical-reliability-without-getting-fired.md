@@ -43,6 +43,16 @@ A lot of leadership advice asks people to be brave: speak up, tell the truth, do
 
 Radical Reliability takes a different approach. It asks how to design systems and behaviors _around you_ so people don't have to rely on bravery just to act responsibly.
 
+### Be Clear What the Practice is Protecting
+
+Radical Reliability is always a stance about responsibility and protection. Most of the time, that work succeeds through repair: expectations become clearer, behavior changes, and trust is rebuilt.
+
+But repair does not always succeed — and when it doesn’t, responsibility doesn't vanish.
+
+That may mean reducing how much harm others are exposed to, making risk visible to the people who can act on it, and supporting decisive action when it moves beyond your authority.
+
+As a junior leader, your responsibility is not to assume failure or to carry harm you cannot stop. It is to notice harm, act where you have authority, and make risk visible when you do not.
+
 ### Small, Low-Risk Moves You Can Try
 
 If you're early in your management career, Radical Reliability can sound abstract or risky. However, the goal isn't to overhaul your organization — it's to change the local cost of honesty, repair, and responsibility.
@@ -281,6 +291,8 @@ Some will quietly push you out.
 Pay attention to which one you're in.
 
 And remember:
-if an organization cannot tolerate people acting responsibly with good information and honest intent, that's not a personal failure.
+if an organization cannot tolerate people acting responsibly with good information and honest intent, that is not a personal failure.
 
 It's a signal.
+
+A system that can only function by grinding down good judgment will eventually be run by people who no longer have any.

@@ -206,6 +206,54 @@ These heuristics bias people toward prosocial decisions without requiring coordi
 
 **Values are only real if they function in your absence.**
 
+## Pattern: Repair That Ends Harm
+
+### The Problem
+
+Radical Reliability assumes baseline good faith and a willingness to repair. Most harm is unintentional, and much of it can be addressed through clarity, feedback, boundary-setting, and coaching. That work, too, is repair.
+
+But repair is not endless tolerance.
+
+When someone is actively violating the environment — undermining trust, causing repeated harm, or ignoring clear boundaries — the problem is no longer misunderstanding. At that point, continuing to "work with them," or forcing others to do so through inaction, stops being repair. It becomes permission for harm to continue.
+
+### How I approach it
+
+I treat repair as a progression, not a single move.
+
+I start by assuming good faith and testing for coachability. I make expectations explicit, give feedback directly, and set boundaries clearly. I look for evidence that harm is decreasing and that responsibility is being taken.
+
+In practice, that means being precise about the situation the person causing harm believed they were responding to, being direct about the behavior they chose, and then doing the harder work of helping them understand the impact that resulted from those actions.
+
+Many people can hear feedback without internalizing what their actions are doing to others. You can state the impact clearly, but you cannot force someone to accept it. Repair depends on whether that understanding lands.
+
+When harm does not decrease and responsibility is not being taken, choosing to continue as before means allowing the damage to grow.
+
+At that point, repair requires decisive action. That action may include role changes, separation, or removal — once it's clear that continued coaching is not reducing harm.
+
+This is not a judgment about a person's worth or potential. It is a recognition that the cost of continued exposure has outstripped the benefit of further repair. My responsibility is to provide a clear, structured path to collaborating effectively within their team — and to decisively end that involvement when it becomes clear they are causing ongoing risk to others.
+
+### How this changes behavior
+
+Teams watch closely to see whether harm is addressed or merely tolerated.
+
+When leaders act decisively once repair is no longer working, people learn that boundaries are real and protective, and that trust is defended in practice, not just in words. They stop expending energy protecting themselves from someone else's behavior and can return that energy to their work.
+
+Just as importantly, they learn what kind of system they are in. If harm is allowed to continue, people who value safety, collaboration, and accountability begin to leave. If it is addressed, those same people are more likely to stay — and to invest.
+
+Avoidance is not kindness. It is a refusal to take responsibility for the conditions people are asked to work in.
+
+### What I’m aiming for
+
+I'm aiming to repair systems, not manage impressions.
+
+This kind of repair does not necessarily feel kind to the person causing harm. But the responsibility here is to the people affected by that harm. Allowing it to continue because acting feels uncomfortable is not neutrality. It is a choice to shift the cost onto everyone else.
+
+Responsibility is about what you allow to continue.
+
+## The takeaway
+
+Decisiveness is how leaders stop systems from absorbing harm.
+
 ## Misuse and Failure Modes
 
 _Radical Reliability is intentionally anti-heroic._
