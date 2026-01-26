@@ -34,7 +34,7 @@ The intent is usually kind: protect morale, keep people focused, prevent panic.
 
 The effect is often the opposite.
 
-When people sense risk but are told not to worry, they stop trusting both leadership _and their own perception._ The gap between lived experience and official messaging creates unpredictable uncertainty — the most exhausting and corrosive kind.
+When people sense risk but are told not to worry, they stop trusting both leadership and their own perception. The gap between lived experience and official messaging creates unpredictable uncertainty. In that state, people hesitate, second-guess, or make decisions without being aware of the risks they may be taking. False reassurance corrodes judgment and erodes engagement.
 
 ### How I approach it
 
