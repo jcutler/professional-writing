@@ -228,7 +228,7 @@ Many people can hear feedback without internalizing what their actions are doing
 
 When harm does not decrease and responsibility is not being taken, choosing to continue as before means allowing the damage to grow.
 
-At that point, repair requires decisive action. That action may include role changes, separation, or removal — once it's clear that continued coaching is not reducing harm.
+At that point, repair requires decisive action. That action may include role changes, separation, or removal from the organization — once it's clear that continued coaching is not reducing harm.
 
 This is not a judgment about a person's worth or potential. It is a recognition that the cost of continued exposure has outstripped the benefit of further repair. My responsibility is to provide a clear, structured path to collaborating effectively within their team — and to decisively end that involvement when it becomes clear they are causing ongoing risk to others.
 
