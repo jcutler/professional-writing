@@ -74,6 +74,8 @@ Truth-telling is necessary, but it is not sufficient. When the truth doesn’t f
 
 ## Pattern: Predictability Over Reassurance
 
+If truth-telling is about naming reality, predictability is about what happens after reality has been named.
+
 ### The problem
 
 Many leaders try to build trust by appearing consistently confident and composed.
