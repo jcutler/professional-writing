@@ -45,7 +45,7 @@ I don't promise outcomes I can't control, and I don't relay optimistic narrative
 
 Truth-telling isn't a one-time disclosure. I stay present with the consequences: answering questions, sitting with discomfort, and accepting that clarity sometimes makes people uneasy.
 
-What I refuse to do is trade long-term trust for short-term comfort.
+What I refuse to do is trade long-term trust for short-term comfort. Even when I can't offer improvement, I can still offer legibility — where we are, what the system expects, and what different paths forward actually cost.
 
 ### How this changes behavior
 
