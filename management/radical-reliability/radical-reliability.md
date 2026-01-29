@@ -265,6 +265,8 @@ That being said, Radical Reliability can fail if applied carelessly:
 * Honesty without responsibility becomes cruelty.
 * Vulnerability without repair creates anxiety.
 * Decentralization without support feels like abandonment.
+* Values without consistency when they matter most breeds cynicism.
+* Endless repair in place of action transfers harm to everyone else.
 
 "Just being realistic" can become an excuse for laziness or lack of care - naming constraints without owning any responsibility inside them.
 
