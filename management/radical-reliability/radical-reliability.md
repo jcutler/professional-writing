@@ -141,9 +141,9 @@ When on call, that often means a simple calculation: _the financial impact of a 
 
 I make it clear that it is sometimes correct to let the company lose money — especially when the alternative is burning hours of human energy or eroding customer trust.
 
-I encourage quick, customer-first repairs even when they cost the business something.
+I encourage quick, customer-first repairs even when they require the business to take a short-term loss. Those choices are made visibly — including their cost and tradeoffs — so they invite alignment: allowing the organization to affirm its values through an observable response.
 
-And crucially: I back people when they make those calls.
+And crucially: I consistently back people when they make those calls.
 
 ### How this changes behavior
 
