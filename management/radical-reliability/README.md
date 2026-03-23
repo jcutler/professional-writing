@@ -34,6 +34,18 @@ It covers:
 
 Read this if you want to try applying the stance in real organizations without confusing integrity with recklessness.
 
+## What This Draws On
+
+The ideas here didn't emerge in isolation.
+
+The core stance — assume failure, design for detection and repair, distribute judgment to the point of action — is rooted in resilience engineering and high-reliability organization research. Dekker on just culture, Hollnagel on Safety-II, Weick and Sutcliffe on managing the unexpected, Woods on graceful extensibility, Edmondson on psychological safety. Some of these I read, some I absorbed from mentors, some I accidentally validated through practice. The distinction matters less than the fact that the tradition exists and is worth engaging with directly.
+
+The moral sensibility feels like Stoic ethics — the commitment to acting well inside systems you can't control — and, less academically (and more honestly), comes from Terry Pratchett, whose characters model responsibility as something that arises from proximity and capacity rather than from authority or reward.
+
+What I'm trying to do is something most of that literature doesn't: translate these ideas into a personal practice for managers with limited authority, in systems that aren't designed for resilience, and that may never improve.
+
+Most management writing assumes the organization wants to get better and that the reader has enough institutional support to implement what they're learning. These essays start from the opposite assumption.
+
 ## A Note on Intent
 
 These essays are not a playbook, a manifesto, or a set of rules.
