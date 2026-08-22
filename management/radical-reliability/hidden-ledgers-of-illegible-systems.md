@@ -116,6 +116,3 @@ The best thing you can build for them is not gratitude. It's the standard for a 
 
 > This essay is a spiritual companion to [Practicing Radical Reliability as a Leader](https://github.com/jcutler/professional-writing/blob/main/management/radical-reliability/radical-reliability.md). Where *Radical Reliability* argues that people deserve legibility from the humans they report to, this article argues that they deserve it from the systems they operate, as well. The hidden ledger metaphor is just how the argument sneaks its way into the budget meeting.
 
-Related writing, including the leadership essay this piece descends from, lives in my [Radical Reliability reading list](https://medium.com/@cutlerish/list/radical-reliability-adb18ce21e03).
-
-This essay lives canonically on GitHub alongside my other writing: [link to the hidden-ledgers path in your repo]
