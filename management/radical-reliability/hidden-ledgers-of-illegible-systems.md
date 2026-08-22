@@ -88,7 +88,7 @@ These questions translate across products. A CLI tool that dumps a raw stack tra
 
 New code can be born nontaxable by applying this standard with one question per PR: *"if this fails at 2AM, does it explain itself?"* But your existing debt won't fix itself, and it won't get fixed incidentally either. Often, the worst offenders are stable-enough systems nobody touches. Waiting until planned development happens to visit them so that you can "clean as you go" leaves the oldest and least understood systems a perpetual source of tax. Reducing your tax burden is direct work: inventory the failures humans have had to interpret, rank them by rate of occurrence, and work the list. Deliberately, as a prioritized backlog, not as a virtue squeezed into the margins of feature delivery.
 
-This work is worth doing, because whether you charge the hidden ledger or pay costs up front, your choice compounds. The ongoing presence of debt degrades the reader — people stop reading errors, customers route around your API, on-call defaults to suspicion of alerts. And the more you accrue, the less capable anyone becomes of noticing new charges. Conversely, legible systems get better faster: one taxable failure stands out against a quiet background, gets caught in review, and gets fixed before it is an incident. And the diagnosis budget you stop spending on what's knowable is saved for the novel and unknowable.
+This work is worth doing, because whether you charge the hidden ledger or pay costs up front, your choice compounds. The ongoing presence of debt degrades the reader: people stop reading errors, customers route around your API, on-call defaults to suspicion of alerts. And the more you accrue, the less capable anyone becomes of noticing new charges. Conversely, legible systems get better faster: one taxable failure stands out against a quiet background, gets caught in review, and gets fixed before it is an incident. And the diagnosis budget you stop spending on what's knowable is saved for the novel and unknowable.
 
 # Non-Goal: Blaming the Heroes
 
@@ -115,3 +115,7 @@ A healthy system is not one that never fails. It is one that explains itself whe
 The best thing you can build for them is not gratitude. It's the standard for a system that explains itself, and the budget to keep to it.
 
 > This essay is a spiritual companion to [Practicing Radical Reliability as a Leader](https://github.com/jcutler/professional-writing/blob/main/management/radical-reliability/radical-reliability.md). Where *Radical Reliability* argues that people deserve legibility from the humans they report to, this article argues that they deserve it from the systems they operate, as well. The hidden ledger metaphor is just how the argument sneaks its way into the budget meeting.
+
+Related writing, including the leadership essay this piece descends from, lives in my [Radical Reliability reading list](https://medium.com/@cutlerish/list/radical-reliability-adb18ce21e03).
+
+This essay lives canonically on GitHub alongside my other writing: [link to the hidden-ledgers path in your repo]
