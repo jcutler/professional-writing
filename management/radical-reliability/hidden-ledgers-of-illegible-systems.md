@@ -8,7 +8,7 @@ I've given this a name: the **diagnosis tax** — levied the moment something br
 
 You didn't skip the work, you deferred it. You booked the savings during development, but these systems are keeping meticulous accounts anyway. You just can't read them.
 
-> An illegible system — one that fails without explaining what broke, what it means, and what to do next — does not merely fail to help, it issues an invoice that is always paid, though the payer never agreed to it and the ledger it's recorded in is hidden.
+> An illegible system — one that fails without explaining what broke, what it means, and what to do next — does not merely fail to help. It issues an invoice that is always paid, but never agreed to. And the ledger it's recorded in is hidden.
 
 # The Ledger
 
