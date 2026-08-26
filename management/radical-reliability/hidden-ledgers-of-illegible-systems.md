@@ -12,9 +12,9 @@ You didn't skip the work, you deferred it. You booked the savings during develop
 
 # The Ledger
 
-The build side is well accounted on your company's books: staffing, development time, infrastructure. Somewhere there is a spreadsheet comparing what a feature cost to the revenue it creates, and the spreadsheet says the feature is doing great.
+The build side is well accounted for on your company's books: staffing, development time, infrastructure. Somewhere there is a spreadsheet comparing what a feature cost to the revenue it creates, and the spreadsheet says the feature is doing great.
 
-The spreadsheet isn't wrong, it's limited. The savings you booked by shipping illegible systems were in dev weeks and dollars. These are currencies your books can hold. The deferred costs come due in currencies they can't: an engineer's dedication, a customer's goodwill, and an organization's trust in its own alarms. The spending shows up nowhere obvious, right up until the balance does. As a **depletion symptom**: a resignation you can't afford, a contract that doesn't renew, or a missed incident that causes real damage.
+The spreadsheet isn't wrong; it's limited. The savings you booked by shipping illegible systems were in dev weeks and dollars. These are currencies your books can hold. The deferred costs from the diagnosis tax come due in currencies they can't: an engineer's dedication, a customer's goodwill, and an organization's trust in its own alarms. The spending shows up nowhere obvious, right up until the balance comes due as a **depletion symptom**: a resignation you can't afford, a contract that doesn't renew, or a missed incident that causes real damage.
 
 _My team builds APIs, so these examples are API-shaped. The pattern holds for any product._
 
@@ -27,7 +27,7 @@ The failure emerges **inside the team**
 The failure emerges **at the product surface**
 
 * **The Problem:** An error says `500 Internal Server Error` where `state must be one of OPEN, CLOSED, ...` belonged.
-* **The Hidden Ledger:** Customer goodwill — their integration engineers' time, their patience during hard weeks.
+* **The Hidden Ledger:** Customer goodwill — their integration engineers' time, their patience during hard weeks, their testimonial for your marketing team.
 * **The Depletion Symptom:** Support escalations, slow integrations, churn at contract renewal.
 
 The failure emerges **in monitoring**
@@ -115,4 +115,3 @@ A healthy system is not one that never fails. It is one that explains itself whe
 The best thing you can build for them is not gratitude. It's the standard for a system that explains itself, and the budget to keep to it.
 
 > This essay is a spiritual companion to [Practicing Radical Reliability as a Leader](https://github.com/jcutler/professional-writing/blob/main/management/radical-reliability/radical-reliability.md). Where *Radical Reliability* argues that people deserve legibility from the humans they report to, this article argues that they deserve it from the systems they operate, as well. The hidden ledger metaphor is just how the argument sneaks its way into the budget meeting.
-
