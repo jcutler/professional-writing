@@ -2,7 +2,7 @@
 
 **Who pays when your systems don't explain themselves?**
 
-Every error message you didn't write gets written anyway, every exception you didn't catch gets caught anyway. At 2AM. By whoever is standing closest when the thing fails. Assembled from tribal knowledge, three dashboards, a couple of stale runbooks, a Slack search, and a half-finished tech spec (figuring out which half is its own investigation).
+Every error message you didn't write gets written anyway, every exception you didn't catch gets caught anyway. At 2AM. By whoever is standing closest when the thing fails, assembling tribal knowledge, three dashboards, a couple of stale runbooks, a Slack search, and a half-finished tech spec into a diagnosis.
 
 I've given this a name: the **diagnosis tax** — levied the moment something breaks, collected in the human work of turning an unexplained failure into an understood one. Your on-call engineer reviews the stack trace, reads logs, correlates dashboards, digs up tickets and PRs, and reconstructs what the system declined to say.
 
