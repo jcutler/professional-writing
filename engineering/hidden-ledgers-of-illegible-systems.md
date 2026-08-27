@@ -40,10 +40,10 @@ The failure emerges **in monitoring**
 
 These hidden ledgers share four properties:
 
-1. **They are finite.** Dedication, goodwill, and credibility all run out.
+1. **They are finite.** Most depletions don't refill.
 2. **They deplete silently.** Dashboards don't track them. The balance is invisible while it drains.
 3. **They are donated, not budgeted.** Nobody who pays agreed to subsidize design shortcuts. On-call didn't sign up to be the error message. The customer didn't contract to debug your API for you.
-4. **The balance is discovered when it reaches zero.** The resignation letter. The non-renewal. The ignored page that mattered. By the time the ledger is legible, it's overdrawn.
+4. **The balance is discovered when it reaches zero.** By the time the ledger is legible, it's overdrawn.
 
 You can't read a hidden ledger. But you can stop writing to it.
 
