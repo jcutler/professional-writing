@@ -47,7 +47,7 @@ These hidden ledgers share four properties:
 
 You can't read a hidden ledger. But you can stop writing to it.
 
-# Not a New Complaint
+# Not a Values Problem
 
 I'm not the first to point out that software runs on invisible human effort.
 
