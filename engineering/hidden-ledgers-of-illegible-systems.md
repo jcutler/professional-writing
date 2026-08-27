@@ -18,11 +18,13 @@ The spreadsheet isn't wrong; it's limited. The savings you booked by shipping il
 
 _My team builds APIs, so these examples are API-shaped. The pattern holds for any product._
 
+![A broken system with arrows to three faded, open accounting ledgers marked by a late-night coffee, a handshake, and an alarm bell](resources/hidden-ledgers/hidden-ledgers-illo.jpg)
+
 The failure emerges **inside the team**
 
 * **The Problem:** Alert names a symptom, not an impact; the log requires the service expert to interpret.
-* **The Hidden Ledger:** Engineer dedication — nights, focus, the willingness to chase things down.
-* **The Depletion Symptom:** Burnout, disaffection, attrition of the people who cared most.
+* **The Hidden Ledger:** Engineer dedication — nights and weekends, and the willingness to chase things down.
+* **The Depletion Symptom:** Burnout, and the attrition of the people who cared most.
 
 The failure emerges **at the product surface**
 
@@ -53,7 +55,7 @@ Google's [Site Reliability Engineering](https://sre.google/sre-book/introduction
 
 Resilience Engineering ([Woods](https://snafucatchers.github.io/), [Cook](https://how.complexsystems.fail/), [Allspaw](https://lup.lub.lu.se/student-papers/record/8084520)) went further, stating that complex systems *always* run in degraded mode, kept safe by the continuous adaptation of the humans operating them — a capacity the organization absorbs without ever seeing it.
 
-And Tanya Reilly's [*Being Glue*](https://www.noidea.dog/glue) named the career version: teams run on the coordination work the promotion criteria have no measure for. The people who do this work — disproportionately the people least empowered to refuse it — get penalized for doing what the organization needs most.
+And Tanya Reilly's [*Being Glue*](https://www.noidea.dog/glue) named the career version: teams run on the coordination work promotion criteria won't measure. The people who do this work — disproportionately the people least empowered to refuse it — get penalized for doing what the organization needs most.
 
 Some of what happens at 2AM is genuine sense-making, novel reasoning about a failure nobody foresaw, work no error message could have pre-empted. That work is not a tax, it's the job, the most valuable thing your engineers do. But that's exactly the point: sense-making capacity is finite, and every hour of it that is spent recovering facts the system already had — which service failed, what state the request was in, what the blast radius is — is an hour billed against a hidden ledger. The diagnosis tax is not levied on the unknowable. It is levied on the knowable-but-withheld.
 
