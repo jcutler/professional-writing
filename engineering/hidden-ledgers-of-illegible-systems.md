@@ -29,7 +29,7 @@ The failure emerges **inside the team**
 The failure emerges **at the product surface**
 
 * **The Problem:** An error says `500 Internal Server Error` where `state must be one of OPEN, CLOSED, ...` belonged.
-* **The Hidden Ledger:** Customer goodwill — their integration engineers' time, their patience during hard weeks, their testimonial for your marketing team.
+* **The Hidden Ledger:** Customer goodwill — patience during hard weeks, their testimonial for your marketing team.
 * **The Depletion Symptom:** Support escalations, slow integrations, churn at contract renewal.
 
 The failure emerges **in monitoring**
