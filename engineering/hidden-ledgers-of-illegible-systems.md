@@ -14,7 +14,7 @@ You didn't skip the work, you deferred it. You booked the savings during develop
 
 The build side is well accounted for on your company's books: staffing, development time, infrastructure. Somewhere there is a spreadsheet comparing what a feature cost to the revenue it creates, and the spreadsheet says the feature is doing great.
 
-The spreadsheet isn't wrong; it's limited. The savings you booked by shipping illegible systems were in dev weeks and dollars. These are currencies your books can hold. The deferred costs from the diagnosis tax come due in currencies they can't: an engineer's dedication, a customer's goodwill, and an organization's trust in its own alarms. The spending shows up nowhere obvious, right up until the balance comes due as a depletion symptom: a resignation you can't afford, a contract that doesn't renew, or a missed incident that causes real damage.
+The spreadsheet isn't wrong; it's limited. The savings you booked by shipping illegible systems were in dev weeks and dollars. These are currencies your books can hold. The deferred costs from the diagnosis tax are in currencies they can't — spending that shows up nowhere obvious right up until the balance comes due as a **depletion symptom**. It is impossible to measure an engineer's dedication until they tender a resignation that you can't afford. Assessing a customer's goodwill is hard, at least until they don't renew their contract. And you cannot know how much your organization has lost trust in its own alarms before a missed incident that causes real damage.
 
 _My team builds APIs, so these examples are API-shaped. The pattern holds for any product._
 
